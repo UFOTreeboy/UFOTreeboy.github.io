@@ -1,0 +1,19 @@
+.banner{
+    padding-top: 100px;
+    width: 100%;
+    height:600px;
+    background-image: 
+   linear-gradient(to bottom, rgba(217,167,199,0.6), 
+  rgba(255,252,220,0.6)),
+  url("UFOTreeboy.github.io\P_20190321_175047_vHDR_On.jpg");
+  }
+  
+  .quote{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 50px;
+    color: grey;
+    padding-left: 20px;
+    border-left: 10px solid #fff;
+  }
+  
